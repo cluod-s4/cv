@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 Mohammed - Portfolio & Projects
 
 [![Python Version](https://img.shields.io/badge/Python-3.11-blue.svg)](https://python.org)
